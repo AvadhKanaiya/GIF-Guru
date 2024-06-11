@@ -9,7 +9,7 @@ A random Meme generator website built in React.js
 `3` Once you are logged in, select "Create an App".
 ### Step 4:
 `4` Select "API" from the modal and click on "Next Step”.
-`![ss_demo](./create_accounty_giphy.JPG)`
+![ss_demo](./create_accounty_giphy.jpg)
 ### Step 5:
 `5` Fill in the required information for your app, including its name and a brief description.
 ### Step 6:
